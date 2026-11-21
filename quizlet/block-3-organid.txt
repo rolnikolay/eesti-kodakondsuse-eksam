@@ -1,0 +1,156 @@
+Riigikogu • Kes võtab vastu seadusi? → Riigikogu	Рийгикогу • Кто принимает законы? → Рийгикогу
+Vabariigi President • Kes on Eesti riigipea? → Vabariigi President	Президент Республики • Кто является главой Эстонского государства? → Президент Республики
+Vabariigi Valitsus • Riigieelarve eelnõu koostab: → Vabariigi Valitsus	Правительство Республики • Проект государственного бюджета составляет: → Правительство Республики
+õiguskantsler • Milline organ teostab järelevalvet õigustloovate aktide põhiseadusele ja seadustele vastavuse üle? → õiguskantsler	канцлер юстиции • Кто надзирает за соответствием правотворческих актов Конституции и законам? → канцлер юстиции
+seadus • Seadus jõustub üldjuhul: → kümnendal päeval pärast Riigi Teatajas avaldamist	закон • Закон, как правило, вступает в силу: → на десятый день после опубликования в Riigi Teataja
+Riigikohus • Milline kohus on Eesti kõrgeim kohus? → Riigikohus	Государственный суд; Верховный суд Эстонии • Какой суд является высшим судом Эстонии? → Государственный суд
+peaminister • Kes juhib Vabariigi Valitsuse tegevust? → peaminister	премьер-министр • Кто руководит деятельностью Правительства Республики? → премьер-министр
+kohalik omavalitsus • Kohalik omavalitsus korraldab kohalikku elu.	местное самоуправление • Местное самоуправление организует местную жизнь.
+kohalik • See on kohalik küsimus.	местный • Это местный вопрос.
+omavalitsus • Omavalitsus lahendab kohalikke küsimusi.	самоуправление • Самоуправление решает местные вопросы.
+amet • Ta astus ametisse.	должность; служба • Он вступил в должность.
+ettepanekul • Kes nimetab õiguskantsleri ametisse? → Riigikogu Vabariigi Presidendi ettepanekul	по предложению • Кто назначает канцлера юстиции? → Рийгикогу по предложению Президента
+Euroopa • Millal sai Eestist Euroopa Liidu liige? → 1. mail 2004	Европа • Когда Эстония стала членом Европейского союза? → 1 мая 2004 года
+kohus • Õigust mõistab: → kohus	суд • Правосудие осуществляет: → суд
+valitsus • Riigieelarve eelnõu koostab: → Vabariigi Valitsus	правительство • Проект государственного бюджета составляет: → Правительство Республики
+vabariik • Kas Eesti Vabariik tohib sõlmida välislepinguid, mis on vastuolus põhiseadusega? → ei tohi	республика • Может ли Эстонская Республика заключать международные договоры, противоречащие конституции? → не может
+president • Kes on Eesti riigipea? → Vabariigi President	президент • Кто является главой Эстонского государства? → Президент Республики
+Riigikogu esimees • Kes kutsub kokku Riigikogu erakorralise istungjärgu? → Riigikogu esimees (Presidendi, Valitsuse või ≥1/5 liikmete nõudel)	председатель Рийгикогу • Кто созывает внеочередную сессию Рийгикогу? → председатель Рийгикогу (по требованию Президента, Правительства или ≥1/5 членов)
+Riigikogu liige • Kes võib pöörduda arupärimisega Vabariigi Valitsuse liikmete jt ametiisikute poole? → Riigikogu liige	член Рийгикогу • Кто может обратиться с депутатским запросом? → депутат Рийгикогу
+riigikontrolör • Riigikontrolör juhib Riigikontrolli.	государственный контролёр • Государственный контролёр руководит Государственным контролем.
+volitus • Millal algavad liikme volitused?	полномочие • Когда начинаются полномочия члена?
+valima • Rahvas valib Riigikogu.	выбирать; избирать • Народ избирает Рийгикогу.
+rahvahääletus • Küsimus pannakse rahvahääletusele.	референдум; всенародное голосование • Вопрос выносится на референдум.
+vastu • Kes võtab vastu seadusi? → Riigikogu	против • Кто принимает законы? → Рийгикогу
+vallavanem • Vallavanem juhib vallavalitsust.	волостной старейшина; глава волости • Волостной старейшина руководит волостной управой.
+koosseis • Mitu liiget on Riigikogu koosseisus?	состав • Сколько членов входит в состав Рийгикогу?
+kohtunik • Kohtunik on sõltumatu.	судья • Судья независим.
+Riigikohtu esimees • Kes teeb ettepaneku Riigikohtu liikmete ametisse nimetamiseks? → Riigikohtu esimees	председатель Госсуда • Кто вносит предложение о назначении членов Государственного суда? → председатель Государственного суда
+otsus • Otsus peab olema seaduslik.	решение • Решение должно быть законным.
+organ • Milline organ teostab majanduskontrolli riigi vara üle ja on sõltumatu? → Riigikontroll	орган • Какой орган осуществляет экономический контроль над государственным имуществом и независим? → Государственный контроль
+Eesti Pank • Kes omab Eesti raha emissiooni ainuõigust? → Eesti Pank	Банк Эстонии • Кто обладает исключительным правом эмиссии денег? → Банк Эстонии
+aste • Milline on kohtusüsteemi teine aste? → ringkonnakohus	инстанция; степень • Какова вторая инстанция судебной системы? → окружной суд
+erakorraline • Millal toimuvad erakorralised valimised?	чрезвычайный; внеочередной • Когда проходят внеочередные выборы?
+rahvas • Kes on Eesti kõrgeima riigivõimu kandja? → rahvas	народ • Кто является носителем высшей государственной власти в Эстонии? → народ
+istung • Millise häälteenamusega võib Riigikogu otsustada, et istung ei ole avalik? → kahekolmandikuline häälteenamus	заседание • Каким большинством Рийгикогу может решить, что заседание не будет публичным? → большинство в две трети голосов
+riigiamet • Ta töötab riigiametis.	государственная должность • Он занимает государственную должность.
+kohtuotsus • Kedagi ei tohi käsitada kuriteos süüdi olevana enne, kui: → tema kohta on jõustunud süüdimõistev kohtuotsus	решение суда; приговор • Никого нельзя считать виновным в преступлении прежде, чем: → вступил в силу обвинительный приговор суда
+ettepanek • Kes tegi selle ettepaneku?	предложение • Кто внёс это предложение?
+astuma • Ta soovib astuda erakonda.	вступать; поступать • Он хочет вступить в партию.
+nimetama • Kes nimetab ministrid ametisse?	назначать; называть • Кто назначает министров на должность?
+avalik • Millise häälteenamusega võib Riigikogu otsustada, et istung ei ole avalik? → kahekolmandikuline häälteenamus	публичный; общественный; открытый • Каким большинством Рийгикогу может решить, что заседание не будет публичным? → большинство в две трети голосов
+seaduse alusel • Milliseid õigusakte annab Vabariigi Valitsus seaduse alusel ja täitmiseks? → määrusi ja korraldusi	на основании закона • Какие акты издаёт Правительство на основании и во исполнение закона? → постановления и распоряжения
+kriminaalvastutus • Kuritegu võib kaasa tuua kriminaalvastutuse.	уголовная ответственность • Преступление может повлечь уголовную ответственность.
+moodustama • Kuidas moodustatakse valitsus?	формировать; образовывать • Как формируется правительство?
+ringkonnakohus • Milline on kohtusüsteemi teine aste? → ringkonnakohus	окружной суд • Какова вторая инстанция судебной системы? → окружной суд
+umbusaldus • Riigikogu avaldas ministrile umbusaldust.	недоверие; вотум недоверия • Рийгикогу выразил министру недоверие.
+hääletama • Valija hääletab valimistel.	голосовать • Избиратель голосует на выборах.
+juhul • Kes valib Vabariigi Presidendi? → Riigikogu või seaduses ettenähtud juhul valimiskogu	в случае • Кто избирает Президента Республики? → Рийгикогу или в предусмотренном случае — коллегия выборщиков
+häälteenamus • Millise häälteenamusega võib Riigikogu otsustada, et istung ei ole avalik? → kahekolmandikuline häälteenamus	большинство голосов • Каким большинством Рийгикогу может решить, что заседание не будет публичным? → большинство в две трети голосов
+kuulutama • President kuulutab seaduse välja.	объявлять; провозглашать • Президент обнародует закон.
+tegevus • Millisel põhimõttel on korraldatud Riigikogu, Vabariigi Presidendi, Vabariigi Valitsuse ja kohtute tegevus? → võimude lahususe ja tasakaalustatuse põhimõttel	деятельность • На каком принципе организована деятельность Рийгикогу, Президента, Правительства и судов? → на принципе разделения и баланса властей
+volikogu • Milline on kohaliku omavalitsuse esinduskogu? → volikogu	собрание (местное) • Что является представительным органом местного самоуправления? → собрание (воликогу)
+eelnõu • Riigieelarve eelnõu koostab: → Vabariigi Valitsus	проект (правового акта) • Проект государственного бюджета составляет: → Правительство Республики
+komisjon • Milline institutsioon kuulub Euroopa Liidu kesksete institutsioonide hulka? → Euroopa Komisjon	комиссия • Какой институт относится к центральным институтам Европейского союза? → Европейская комиссия
+liige • Millal sai Eestist Euroopa Liidu liige? → 1. mail 2004	член • Когда Эстония стала членом Европейского союза? → 1 мая 2004 года
+maakohus • Maakohus on esimese astme kohus.	уездный суд • Уездный суд является судом первой инстанции.
+valimised • Kas Riigikogu korralised valimised toimuvad: → iga nelja aasta järel	выборы • Очередные выборы Рийгикогу проводятся: → каждые четыре года
+esindama • President esindab Eesti Vabariiki.	представлять • Президент представляет Эстонскую Республику.
+halduskohus • Halduskohus lahendab haldusasju.	административный суд • Административный суд разрешает административные дела.
+kohtusüsteem • Millistest kohtutest koosneb Eesti kohtusüsteem (kolm astet)? → maa-/linna- ja halduskohtud; ringkonnakohtud; Riigikohus	судебная система • Из каких судов состоит судебная система Эстонии (три уровня)? → уездные/городские и административные; окружные; Государственный суд
+nõukogu • Milline nõuandev organ tegutseb Vabariigi Presidendi juures riigikaitse küsimustes? → Riigikaitse Nõukogu	совет • Какой совещательный орган действует при Президенте по вопросам обороны? → Совет государственной обороны
+määrus • Valitsus andis välja määruse.	постановление • Правительство издало постановление.
+otsustama • Kes otsustab kodakondsuse andmise?	решать • Кто решает вопрос о предоставлении гражданства?
+leping • Pooled sõlmisid lepingu.	договор • Стороны заключили договор.
+isiklik • See on minu isiklik arvamus.	личный • Это моё личное мнение.
+riigieelarve • Riigieelarve eelnõu koostab: → Vabariigi Valitsus	государственный бюджет • Проект государственного бюджета составляет: → Правительство Республики
+riigikaitse • Kes on riigikaitse kõrgeim juht? → Vabariigi President	государственная оборона • Кто является верховным руководителем обороны? → Президент
+sünnilt • Vabariigi presidendi kandidaat peab olema: → sünnilt Eesti kodanik, kes on vähemalt 40 aastat vana	по рождению • Кандидат в Президенты Республики должен быть: → гражданином Эстонии по рождению не моложе 40 лет
+ministeerium • Minister juhib ministeeriumi.	министерство • Министр руководит министерством.
+ratifitseerima • Riigikogu ratifitseerib välislepinguid.	ратифицировать • Рийгикогу ратифицирует международные договоры.
+Seadusandlik võim • Kellele kuulub seadusandlik võim? → Riigikogule	законодательная власть • Кому принадлежит законодательная власть? → Рийгикогу
+hääletus • Hääletus toimub homme.	голосование • Голосование состоится завтра.
+kandidaat • Kui vana peab olema Vabariigi Presidendi kandidaat vähemalt? → 40-aastane	кандидат • Каков минимальный возраст кандидата в Президенты Республики? → 40 лет
+kandideerima • Kes võib kandideerida Riigikogusse?	баллотироваться • Кто может баллотироваться в Рийгикогу?
+kutsuma • President kutsub Riigikogu kokku.	звать; созывать • Президент созывает Рийгикогу.
+kõrgeim kohus • Milline kohus on Eesti kõrgeim kohus? → Riigikohus	высшая судебная инстанция • Какой суд является высшим судом Эстонии? → Государственный суд
+Maa- ja linnakohtud ning halduskohtud • Milline on kohtusüsteemi esimene aste? → maa- ja linnakohtud ning halduskohtud	уездные, городские и административные суды • Какова первая ступень судебной системы? → уездные, городские и административные суды
+Riigikogu korralised valimised • Kas Riigikogu korralised valimised toimuvad: → iga nelja aasta järel	очередные выборы Рийгикогу • Очередные выборы Рийгикогу проводятся: → каждые четыре года
+tagasiastumine • Peaministri tagasiastumine on tänane teema.	отставка • Отставка премьер-министра является сегодняшней темой.
+tühistama • Kohus tühistas otsuse.	отменять; аннулировать • Суд отменил решение.
+Vähemalt 40 aastat • Vabariigi presidendi kandidaat peab olema: → sünnilt Eesti kodanik, kes on vähemalt 40 aastat vana	не менее 40 лет • Кандидат в Президенты Республики должен быть: → гражданином Эстонии по рождению не моложе 40 лет
+väljakuulutamine • Mis on Vabariigi Presidendi ülesanne? → seaduste väljakuulutamine	объявление • Какова задача Президента Республики? → промульгация (обнародование) законов
+hääletamine • Hääletamine on salajane.	голосование • Голосование тайное.
+Vähemalt 21 aastat • Milline on Riigikogu liikme kandideerimise miinimumvanus? → vähemalt 21 aastat	не менее 21 года • Каков минимальный возраст кандидата в Рийгикогу? → не менее 21 года
+eelarve • Kes võtab vastu riigi tulude ja kulude eelarve seadusena? → Riigikogu	бюджет • Кто принимает госбюджет в форме закона? → Рийгикогу
+juhtum • Seadus näeb ette eraldi juhtumid.	случай • Закон предусматривает отдельные случаи.
+40-aastane • Kui vana peab olema Vabariigi Presidendi kandidaat vähemalt? → 40-aastane	40-летний • Каков минимальный возраст кандидата в Президенты Республики? → 40 лет
+järelevalve • Milline kohus on põhiseadusliku järelevalve kohus? → Riigikohus	надзор • Какой суд является судом конституционного надзора? → Государственный суд
+kinnitamine • Eelarve kinnitamine on päevakorras.	утверждение • Утверждение бюджета стоит на повестке дня.
+minister • Kes juhib ministeeriumi? → minister	министр • Кто руководит министерством? → министр
+riigipea • Kes on Eesti riigipea? → Vabariigi President	глава государства • Кто является главой Эстонского государства? → Президент Республики
+sõltumatu • Milline organ teostab majanduskontrolli riigi vara üle ja on sõltumatu? → Riigikontroll	независимый • Какой орган осуществляет экономический контроль над государственным имуществом и независим? → Государственный контроль
+õigusakt • Milline õigusakt sisaldab peamiselt Eestis elava inimese põhiõigusi ja -vabadusi? → Eesti Vabariigi põhiseadus	правовой акт • Какой правовой акт в основном содержит основные права и свободы человека, живущего в Эстонии? → Конституция Эстонской Республики
+ametiisik • Milline sõltumatu ametiisik analüüsib seaduste muutmise ettepanekuid ja võib esitada Riigikogule ettekande? → õiguskantsler	должностное лицо • Какое независимое должностное лицо анализирует предложения об изменении законов и может представить доклад Рийгикогу? → канцлер юстиции
+ametivanne • President annab ametivande Riigikogu ees.	должностная присяга • Президент приносит должностную присягу перед Рийгикогу.
+apellatsioon • Ta esitas apellatsiooni.	апелляция • Он подал апелляционную жалобу.
+denonsseerima • Riigikogu denonsseerib välislepinguid.	денонсировать • Рийгикогу денонсирует международные договоры.
+erakorralised valimised • Kes kuulutab välja Riigikogu erakorralised valimised juhtudel, mida põhiseadus ette näeb? → Vabariigi President	внеочередные выборы • Кто объявляет внеочередные выборы Рийгикогу в случаях, предусмотренных конституцией? → Президент
+juhtima • Peaminister juhib valitsust.	руководить • Премьер-министр руководит правительством.
+kehtetuks • Kui õiguskantsleri ettepanekut ei täideta, kellele teeb õiguskantsler ettepaneku tunnistada õigustloov akt kehtetuks? → Riigikohtule	недействительным • Если предложение канцлера юстиции не выполнено, кому он предлагает признать правотворческий акт недействительным? → Государственному суду
+kohaliku elu küsimused • Volikogu arutab kohaliku elu küsimusi.	вопросы местной жизни • Собрание местного самоуправления обсуждает вопросы местной жизни.
+mitu • Mitu liiget on Riigikogul? → 101	сколько • Сколько членов в Рийгикогу? → 101
+parlament • Riigikogu on Eesti parlament.	парламент • Рийгикогу является парламентом Эстонии.
+peaministrikandidaat • Kes nimetab ametisse Vabariigi Valitsuse pärast seda, kui peaministrikandidaat on saanud Riigikogult volitused valitsuse moodustamiseks? → Vabariigi President	кандидат в премьер-министры • Кто назначает Правительство Республики после того, как кандидат в премьеры получил полномочия Рийгикогу на формирование правительства? → Президент Республики
+peatuma • Millal volitused peatuvad?	останавливаться; приостанавливаться • Когда приостанавливаются полномочия?
+Riigikogu liikmete • Millal algavad Riigikogu liikmete volitused? → valimistulemuste väljakuulutamise päevast	членов Рийгикогу • Когда начинаются полномочия депутатов Рийгикогу? → со дня объявления результатов выборов
+riigisekretär • Kes on riigisekretär?	государственный секретарь • Кто является государственным секретарём?
+sünnilt Eesti kodanik • Vabariigi presidendi kandidaat peab olema: → sünnilt Eesti kodanik, kes on vähemalt 40 aastat vana	гражданин Эстонии по рождению • Кандидат в Президенты Республики должен быть: → гражданином Эстонии по рождению не моложе 40 лет
+täidesaatev riigivõim • Kellele kuulub täidesaatev riigivõim Eesti Vabariigis? → Vabariigi Valitsusele	исполнительная государственная власть • Кому принадлежит исполнительная власть в Эстонской Республике? → Правительству Республики
+valimistulemus • Millal avaldatakse valimistulemused?	результат выборов • Когда опубликуют результаты выборов?
+Viis aastat • Milline on Vabariigi Presidendi ametiaeg? → viis aastat	пять лет • Каков срок полномочий Президента? → пять лет
+õigusemõistmine • Õigusemõistmine on kohtu ülesanne.	осуществление правосудия • Осуществление правосудия является задачей суда.
+üldkehtiv • See on üldkehtiv reegel.	общеобязательный • Это общеобязательное правило.
+üldine • Kes kinnitab ametisse vallavanema või linnapea ning valla- või linnavalitsuse (üldine korraldus)? → kohaliku omavalitsuse volikogu	общий • Кто утверждает в должности волостного старейшину или мэра, а также волостную или городскую управу (общий порядок)? → собрание местного самоуправления
+esimees • Kes teeb ettepaneku Riigikohtu liikmete ametisse nimetamiseks? → Riigikohtu esimees	председатель • Кто вносит предложение о назначении членов Государственного суда? → председатель Государственного суда
+Kui kauaks • Kui kauaks valitakse Riigikogu? → neljaks aastaks	на какой срок • На какой срок избирается Рийгикогу? → на четыре года
+Riigikontroll • Milline organ teostab majanduskontrolli riigi vara üle ja on sõltumatu? → Riigikontroll	Государственный контроль • Какой орган осуществляет экономический контроль над государственным имуществом и независим? → Государственный контроль
+vara • Milline organ teostab majanduskontrolli riigi vara üle ja on sõltumatu? → Riigikontroll	имущество • Какой орган осуществляет экономический контроль над государственным имуществом и независим? → Государственный контроль
+Vähemalt 21-Aastane • Riigikogusse võib kandideerida: → iga vähemalt 21-aastane hääleõiguslik Eesti kodanik	не младше 21 года • В Рийгикогу может баллотироваться: → каждый имеющий право голоса гражданин Эстонии не моложе 21 года
+21-aastane • Riigikogusse võib kandideerida: → iga vähemalt 21-aastane hääleõiguslik Eesti kodanik	21-летний • В Рийгикогу может баллотироваться: → каждый имеющий право голоса гражданин Эстонии не моложе 21 года
+ametiaeg • Milline on Vabariigi Presidendi ametiaeg? → viis aastat	срок пребывания в должности • Каков срок полномочий Президента? → пять лет
+arupärimine • Riigikogu liige esitas arupärimise.	депутатский запрос • Член Рийгикогу подал депутатский запрос.
+enamus • Otsus vajab häälteenamust.	большинство • Решение требует большинства голосов.
+enne tähtaega • Kas järgmine väide on õige või vale? Riigikogu liikme volitused võivad lõppeda enne tähtaega, näiteks tagasiastumise või süüdimõistva kohtuotsuse jõustumise korral. → õige	досрочно • Верно или неверно: Полномочия депутата Рийгикогу могут закончиться досрочно, например при отставке или вступлении в силу обвинительного приговора. → верно
+hääl • Igal valijal on üks hääl.	голос • У каждого избирателя один голос.
+iga nelja aasta järel • Kas Riigikogu korralised valimised toimuvad: → iga nelja aasta järel	каждые четыре года • Очередные выборы Рийгикогу проводятся: → каждые четыре года
+istungjärk • Millal algab Riigikogu istungjärk?	сессия • Когда начинается сессия Рийгикогу?
+Kahekolmandikulise häälteenamusega • Kas järgmine väide on õige või vale? Riigikogu istungid on avalikud, kui Riigikogu ei otsusta kahekolmandikulise häälteenamusega teisiti. → õige	большинством в две трети голосов • Верно или неверно: Заседания Рийгикогу публичны, если Рийгикогу не решит иначе большинством в две трети голосов. → верно
+kaitseväe juhataja • Kes on kaitseväe juhataja?	командующий Силами обороны • Кто является командующим Силами обороны?
+kassatsioon • Kassatsioon esitati Riigikohtule.	кассация • Кассационная жалоба была подана в Государственный суд.
+katastroof • Kes kuulutab riigis või selle osas välja eriolukorra (loodusõnnetus, katastroof, nakkushaigus)? → Vabariigi Valitsus	катастрофа • Кто объявляет чрезвычайное положение (eriolukord) в государстве или его части (стихия, катастрофа, инфекция)? → Правительство Республики
+kaudne • See on kaudne valimine.	косвенный • Это косвенное избрание.
+koosseisu enamus • Otsus vajab Riigikogu koosseisu enamust.	большинство состава • Решение требует большинства состава Рийгикогу.
+koostama • Valitsus koostab eelarve eelnõu.	составлять • Правительство составляет проект бюджета.
+korraline • Millal toimub korraline istung?	очередной • Когда состоится очередное заседание?
+korralised valimised • Kas Riigikogu korralised valimised toimuvad: → iga nelja aasta järel	очередные выборы • Очередные выборы Рийгикогу проводятся: → каждые четыре года
+linnapea • Kes kinnitab ametisse vallavanema või linnapea ning valla- või linnavalitsuse (üldine korraldus)? → kohaliku omavalitsuse volikogu	мэр • Кто утверждает в должности волостного старейшину или мэра, а также волостную или городскую управу (общий порядок)? → собрание местного самоуправления
+määrab • Kes määrab peaministrikandidaadi pärast seda, kui Vabariigi Valitsus on tagasi astunud või uus Riigikogu on kokku tulnud? → Vabariigi President	определяет / назначает кандидатуру • Кто назначает кандидата в премьер-министры после отставки Правительства или созыва нового Рийгикогу? → Президент Республики
+otsene • Mida tähendab otsene valimine?	прямой • Что означает прямое избрание?
+otsustusvõimeline • Kas järgmine väide on õige või vale? Erakorralisel istungjärgul on Riigikogu otsustusvõimeline, kui kohal on üle poole Riigikogu koosseisust. → õige	правомочный • Верно или неверно: На внеочередной сессии Рийгикогу правомочен, если присутствует более половины состава. → верно
+rahvusvaheline • See on rahvusvaheline leping.	международный • Это международный договор.
+residents • Mis nime kannab Vabariigi Valitsuse residents Toompeal? → Stenbocki maja	резиденция • Как называется резиденция Правительства Республики на Тоомпеа? → дом Стенбока
+riigieelarve eelnõu • Riigieelarve eelnõu koostab: → Vabariigi Valitsus	проект государственного бюджета • Проект государственного бюджета составляет: → Правительство Республики
+riigikaitse kõrgeim juht • Kes on riigikaitse kõrgeim juht? → Vabariigi President	верховный руководитель государственной обороны • Кто является верховным руководителем обороны? → Президент
+Riigikaitse nõukogu • Milline nõuandev organ tegutseb Vabariigi Presidendi juures riigikaitse küsimustes? → Riigikaitse Nõukogu	Совет государственной обороны • Какой совещательный орган действует при Президенте по вопросам обороны? → Совет государственной обороны
+surma korral • Kas järgmine väide on õige või vale? Vabariigi Valitsus astub tagasi peaministri surma korral. → õige	в случае смерти • Верно или неверно: Правительство уходит в отставку в случае смерти премьер-министра. → верно
+suunama • Avaldus suunati komisjoni.	направлять • Заявление направили в комиссию.
+tagasi astuma • Peaminister astus tagasi.	уходить в отставку • Премьер-министр ушёл в отставку.
+täisealine • Ta on täisealine Eesti kodanik.	совершеннолетний • Он совершеннолетний гражданин Эстонии.
+Vabastab ametist • Kes nimetab ametisse ja vabastab ametist Vabariigi Valitsuse (uue valitsuse ametisseastumisel)? → Vabariigi President	освобождает от должности • Кто назначает и освобождает Правительство (при вступлении нового правительства)? → Президент Республики
+valimiskogu • Vabariigi Presidendi valib: → Riigikogu või valimiskogu	избирательная коллегия • Президента Республики избирает: → Рийгикогу или избирательная коллегия
+valitsuse moodustamine • Valitsuse moodustamine võtab aega.	формирование правительства • Формирование правительства требует времени.
+Vallad ja linnad • Millised on kohaliku omavalitsuse üksused põhiseaduse järgi? → vallad ja linnad	волости и города • Каковы единицы местного самоуправления по конституции? → волости и города
+välispoliitika • Valitsus viib ellu välispoliitikat.	внешняя политика • Правительство осуществляет внешнюю политику.
+üle poole • Kas järgmine väide on õige või vale? Erakorralisel istungjärgul on Riigikogu otsustusvõimeline, kui kohal on üle poole Riigikogu koosseisust. → õige	более половины • Верно или неверно: На внеочередной сессии Рийгикогу правомочен, если присутствует более половины состава. → верно
+ülesanne • Mis on Vabariigi Presidendi ülesanne? → seaduste väljakuulutamine	задача • Какова задача Президента Республики? → промульгация (обнародование) законов

@@ -19,6 +19,13 @@ A static practice site for the **Eesti Vabariigi põhiseaduse ja kodakondsuse se
   On a phone: “Add to Home Screen” / “Install” (PWA).
 - **Repository:** https://github.com/rolnikolay/eesti-kodakondsuse-eksam
 
+### Quizlet flashcards (Estonian → Russian)
+540 vocabulary cards extracted from the study bank, split into 4 non-overlapping exam blocks ([`quizlet/`](quizlet/), with [import instructions](quizlet/README.md)):
+- **Block 1 — Foundations of the state (*riigikord*, 96 cards):** [Quizlet](https://quizlet.com/1238200473/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B3%D0%BE%D1%81%D1%81%D1%82%D1%80%D0%BE%D1%8F-riigikord-flash-cards/) · [`block-1-riigikord.txt`](quizlet/block-1-riigikord.txt)
+- **Block 2 — Rights, freedoms & duties (*õigused*, 169 cards):** [Quizlet](https://quizlet.com/1238200564/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-%D0%B8-%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-oigused-flash-cards/) · [`block-2-oigused.txt`](quizlet/block-2-oigused.txt)
+- **Block 3 — State institutions & courts (*organid*, 156 cards):** [Quizlet](https://quizlet.com/1238200676/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%8B-%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B8-%D0%B8-%D1%81%D1%83%D0%B4%D1%8B-organid-flash-cards/) · [`block-3-organid.txt`](quizlet/block-3-organid.txt)
+- **Block 4 — Citizenship Act (*kodakondsus*, 119 cards):** [Quizlet](https://quizlet.com/1238200743/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD-%D0%BE-%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-kodakondsuse-saamine-kaotamine-flash-cards/) · [`block-4-kodakondsus.txt`](quizlet/block-4-kodakondsus.txt)
+
 ### Run locally
 No build step:
 
@@ -68,6 +75,13 @@ Staatiline treeningleht **Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse t
   Telefonis: “Lisa avakuvale” / “Installi” (PWA).
 - **Repositoorium:** https://github.com/rolnikolay/eesti-kodakondsuse-eksam
 
+### Quizlet sõnakaardid (eesti → vene)
+540 sõnakaarti õppepangast 4 eksamiploki kaupa ilma kordusteta ([`quizlet/`](quizlet/), [impordijuhis](quizlet/README.md)):
+- **Plokk 1 — Riigikord (96 kaarti):** [Quizlet](https://quizlet.com/1238200473/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B3%D0%BE%D1%81%D1%81%D1%82%D1%80%D0%BE%D1%8F-riigikord-flash-cards/) · [`block-1-riigikord.txt`](quizlet/block-1-riigikord.txt)
+- **Plokk 2 — Põhiõigused, vabadused ja kohustused (169 kaarti):** [Quizlet](https://quizlet.com/1238200564/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-%D0%B8-%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-oigused-flash-cards/) · [`block-2-oigused.txt`](quizlet/block-2-oigused.txt)
+- **Plokk 3 — Riigiorganid ja kohtud (156 kaarti):** [Quizlet](https://quizlet.com/1238200676/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%8B-%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B8-%D0%B8-%D1%81%D1%83%D0%B4%D1%8B-organid-flash-cards/) · [`block-3-organid.txt`](quizlet/block-3-organid.txt)
+- **Plokk 4 — Kodakondsuse seadus (119 kaarti):** [Quizlet](https://quizlet.com/1238200743/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD-%D0%BE-%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-kodakondsuse-saamine-kaotamine-flash-cards/) · [`block-4-kodakondsus.txt`](quizlet/block-4-kodakondsus.txt)
+
 ### Kohalik käivitamine
 Ehitust pole vaja:
 
@@ -116,6 +130,13 @@ MIT — fail [`LICENSE`](LICENSE).
   **Пробный экзамен (24 вопроса):** https://rolnikolay.github.io/eesti-kodakondsuse-eksam/exam.html  
   На телефоне: «Добавить на экран» / Install — это PWA.
 - **Репозиторий:** https://github.com/rolnikolay/eesti-kodakondsuse-eksam
+
+### Карточки Quizlet (эстонский → русский)
+540 карточек со словами и примерами из учебного банка, разбитые на 4 блока экзамена без повторов ([`quizlet/`](quizlet/), [инструкция по импорту](quizlet/README.md)):
+- **Блок 1 — Основы госстроя (*riigikord*, 96 карточек):** [Quizlet](https://quizlet.com/1238200473/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B3%D0%BE%D1%81%D1%81%D1%82%D1%80%D0%BE%D1%8F-riigikord-flash-cards/) · [`block-1-riigikord.txt`](quizlet/block-1-riigikord.txt)
+- **Блок 2 — Основные права, свободы и обязанности (*õigused*, 169 карточек):** [Quizlet](https://quizlet.com/1238200564/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B0-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-%D0%B8-%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-oigused-flash-cards/) · [`block-2-oigused.txt`](quizlet/block-2-oigused.txt)
+- **Блок 3 — Органы власти и суды (*organid*, 156 карточек):** [Quizlet](https://quizlet.com/1238200676/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%8B-%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B8-%D0%B8-%D1%81%D1%83%D0%B4%D1%8B-organid-flash-cards/) · [`block-3-organid.txt`](quizlet/block-3-organid.txt)
+- **Блок 4 — Закон о гражданстве (*kodakondsus*, 119 карточек):** [Quizlet](https://quizlet.com/1238200743/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD-%D0%BE-%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5-kodakondsuse-saamine-kaotamine-flash-cards/) · [`block-4-kodakondsus.txt`](quizlet/block-4-kodakondsus.txt)
 
 ### Как открыть у себя
 Сборка не нужна:
