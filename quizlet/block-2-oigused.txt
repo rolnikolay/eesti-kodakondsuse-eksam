@@ -1,0 +1,169 @@
+õigus • Kellel on õigus haridusele? → igaühel	право • У кого есть право на образование? → у каждого
+kodanik • Mis vanuses omandab Eesti kodanik hääleõiguse? → 18-aastaselt	гражданин • С какого возраста гражданин Эстонии приобретает право голоса? → с 18 лет
+tohtima • Kas siin tohib hääletada?	мочь; иметь разрешение • Можно ли здесь голосовать?
+erakond • Ta on erakonna liige.	политическая партия • Он является членом партии.
+sätestama • Seadus sätestab nõuded.	устанавливать; предусматривать в законе • Закон устанавливает требования.
+kedagi • Kedagi ei tohi vahi all pidada ilma kohtu loata kauem kui: → 48 tundi	кого-либо • Никого нельзя держать под стражей без разрешения суда дольше чем: → 48 часов
+vabadus • Igaühel on õigus vabadusele.	свобода • Каждый имеет право на свободу.
+kaitsema • Riik kaitseb inimeste õigusi.	защищать • Государство защищает права людей.
+kohustus • Mis on vanemate õigus ja kohustus laste suhtes? → kasvatada oma lapsi ja nende eest hoolitseda	обязанность • Каково право и обязанность родителей в отношении детей? → воспитывать своих детей и заботиться о них
+kuuluma • Ta kuulub erakonda.	принадлежать; входить; состоять • Он состоит в партии.
+piirang • Milline piirang kehtib Riigikogu liikmele ametite suhtes? → ta ei tohi olla üheski muus riigiametis	ограничение • Какое ограничение действует для депутата Рийгикогу в отношении должностей? → не может занимать никакую другую государственную должность
+riigiasutus • Ta töötab riigiasutuses.	государственное учреждение • Он работает в государственном учреждении.
+politsei • Politsei kaitseb avalikku korda.	полиция • Полиция охраняет общественный порядок.
+luba • Kas rahumeelsete koosolekute pidamiseks on alati vaja valitsuse eelnevat luba? → ei; õigus on ilma eelneva loata, piiranguid võib seadus ette näha	разрешение • Нужно ли всегда предварительное разрешение правительства для мирных собраний? → нет; право без предварительного разрешения, ограничения может установить закон
+veendumus • Igaühel on õigus oma veendumustele.	убеждение • Каждый имеет право на свои убеждения.
+keel • Mis on Eesti riigikeel? → eesti keel	язык • Каков государственный язык Эстонии? → эстонский
+pöördumine • Kohtusse pöördumine on üks võimalus.	обращение • Обращение в суд является одним из вариантов.
+suhtes • Mis on vanemate õigus ja kohustus laste suhtes? → kasvatada oma lapsi ja nende eest hoolitseda	в отношении • Каково право и обязанность родителей в отношении детей? → воспитывать своих детей и заботиться о них
+süüdi • Kedagi ei tohi käsitada kuriteos süüdi olevana enne, kui: → tema kohta on jõustunud süüdimõistev kohtuotsus	виновным • Никого нельзя считать виновным в преступлении прежде, чем: → вступил в силу обвинительный приговор суда
+lubatud • Kes otsustab Eesti kodaniku väljaandmise välisriigile (kui see üldse lubatud on)? → Vabariigi Valitsus	разрешено • Кто решает выдачу гражданина Эстонии иностранному государству (если допускается)? → Правительство
+omand • Omand on seadusega kaitstud.	собственность • Собственность защищена законом.
+välisriik • Ta elab välisriigis.	иностранное государство • Он живёт в иностранном государстве.
+vaba • Mis võib põhiseaduse järgi piirata inimese vaba eneseteostust? → teiste inimeste õigused ja vabadused ning seaduse järgimine	свободный • Что по Конституции может ограничивать свободную самореализацию человека? → права и свободы других людей и соблюдение закона
+järgimine • Mis võib põhiseaduse järgi piirata inimese vaba eneseteostust? → teiste inimeste õigused ja vabadused ning seaduse järgimine	соблюдение • Что по Конституции может ограничивать свободную самореализацию человека? → права и свободы других людей и соблюдение закона
+kohustama • Seadus kohustab igaüht loodust säästma.	обязывать • Закон обязывает каждого беречь природу.
+tsensuur • Kas Eestis on tsensuur? → ei, tsensuuri ei ole	цензура • Есть ли в Эстонии цензура? → нет, цензуры нет
+vajalik • Mida peetakse kodakondsuse seaduse mõistes eesti keele oskuseks? → eesti üldkeele igapäevaeluks vajalik oskus vähemalt B1-tasemel	необходимый • Что в смысле закона о гражданстве считается знанием эстонского языка? → необходимое для повседневной жизни знание общего эстонского языка не ниже уровня B1
+kehtima • See seadus kehtib Eestis.	действовать; быть в силе • Этот закон действует в Эстонии.
+üksnes • See õigus on üksnes Eesti kodanikel.	только; лишь • Это право есть только у граждан Эстонии.
+kohustuslik • Millistel päevadel on Eesti lipu heiskamine eluhoonetel kohustuslik? → iseseisvuspäeval, võidupühal ja taasiseseisvumispäeval	обязательный • В какие дни поднятие флага Эстонии на жилых зданиях обязательно? → в День независимости, День Победы и День восстановления независимости
+piiramine • Õiguste piiramine peab olema põhjendatud.	ограничение • Ограничение прав должно быть обоснованным.
+kuritegu • Kohus arutab kuritegu.	преступление • Суд рассматривает преступление.
+haridus • Kes korraldab põhiseaduse ja kodakondsuse seaduse tundmise eksami? → Haridus- ja Noorteamet	образование • Кто организует экзамен на знание Конституции и закона о гражданстве? → Департамент образования и молодёжи (HARNO)
+huvi • Lapse huve tuleb kaitsta.	интерес • Интересы ребёнка необходимо защищать.
+hüvitamine • Kahju hüvitamine on kohustuslik.	возмещение • Возмещение ущерба обязательно.
+kahju • Kellel on õigus talle õigusvastaselt tekitatud moraalse ja materiaalse kahju hüvitamisele? → igaühel	вред; ущерб • Кто имеет право на возмещение противоправно причинённого вреда? → каждый
+karistama • Inimest saab karistada seaduse alusel.	наказывать • Человека можно наказывать на основании закона.
+riigikirik • Kas Eestis on riigikirik? → ei, riigikirikut ei ole	государственная церковь • Есть ли в Эстонии государственная церковь? → нет, государственной церкви нет
+õiguserikkumine • See tegu on õiguserikkumine.	правонарушение • Это деяние является правонарушением.
+tunnistama • Kohus tunnistas otsuse kehtetuks.	признавать; свидетельствовать • Суд признал решение недействительным.
+nõusolek • Kas järgmine väide on õige või vale? 15–18-aastasele alaealisele Eesti kodakondsuse andmiseks, taastamiseks või vabastamiseks peab olema tema vanema või eestkostja nõusolek. → õige	согласие • Верно или неверно: Для предоставления, восстановления или освобождения от гражданства Эстонии несовершеннолетнему 15–18 лет нужно согласие его родителя или опекуна. → верно
+saatma • Ta saatis avalduse ametiasutusele.	посылать; направлять • Он направил заявление в учреждение.
+juhatus • Riigikogu juhatus korraldab Riigikogu tööd.	правление; руководство • Правление Рийгикогу организует работу Рийгикогу.
+lõplik • See on kohtu lõplik otsus.	окончательный • Это окончательное решение суда.
+põhiõigus • Milline põhiõigus kaitseb eluruumi sekkumise eest? → kodu puutumatus	основное право • Какое основное право защищает жилище от вмешательства? → неприкосновенность жилища
+mõistma • Kohus mõistis ta õigeks.	понимать; в судебных выражениях: признавать, выносить решение • Суд его оправдал.
+välismaa • Ta kolis välismaale.	заграница • Он переехал за границу.
+ametikoht • Ta kandideerib sellele ametikohale.	должность • Он претендует на эту должность.
+autor • Autoril on õigus oma loomingule.	автор • Автор имеет право на своё творчество.
+eneseteostus • Igaühel on õigus vabale eneseteostusele.	самореализация • Каждый имеет право на свободную самореализацию.
+hoolitsema • Kas järgmine väide on õige või vale? Perekond on kohustatud hoolitsema oma abivajavate liikmete eest. → õige	заботиться • Верно или неверно: Семья обязана заботиться о своих нуждающихся членах. → верно
+hüvitis • Ta taotleb hüvitist.	возмещение; компенсация • Он ходатайствует о компенсации.
+kaitse • Igaühel on õigus seaduse kaitsele.	защита • Каждый имеет право на защиту закона.
+kodu • Kodu on: → puutumatu	жилище • Жилище: → неприкосновенно
+mittetulundusühing • Nad asutasid mittetulundusühingu.	некоммерческое объединение • Они учредили некоммерческое объединение.
+omanik • Kes on selle vara omanik?	собственник; владелец • Кто является собственником этого имущества?
+pidama • Tuleb pidada kinni seadusest.	держать; считать; pidama kinni: соблюдать • Нужно соблюдать закон.
+puuduma • Dokumendil puudub allkiri.	отсутствовать • На документе отсутствует подпись.
+rikkumise korral • Kellel on õigus pöörduda oma õiguste rikkumise korral kohtusse? → igaühel	в случае нарушения • Кто вправе обратиться в суд при нарушении своих прав? → каждый
+seaduse ees • Kas kedagi tohib diskrimineerida soo, keele, usutunnistuse või veendumuste tõttu? → ei, kõik on seaduse ees võrdsed	перед законом • Можно ли кого-либо дискриминировать по полу, языку, вероисповеданию или убеждениям? → нет, все равны перед законом
+sundima • Kedagi ei tohi sundida oma usku muutma.	принуждать; заставлять • Никого нельзя заставлять менять свою веру.
+tagamine • Kelle kohustus on õiguste ja vabaduste tagamine? → seadusandliku, täidesaatva ja kohtuvõimu ning kohalike omavalitsuste kohustus	обеспечение • Чья обязанность — обеспечение прав и свобод? → обязанность законодательной, исполнительной и судебной власти и местных самоуправлений
+tingimusel • Millisel tingimusel tohib õigusi ja vabadusi piirata? → ainult kooskõlas põhiseadusega; piirangud peavad olema demokraatlikus ühiskonnas vajalikud	при условии • При каком условии можно ограничивать права и свободы? → только в соответствии с конституцией; ограничения должны быть необходимы в демократическом обществе
+vahistamine • Vahistamine piirab inimese vabadust.	арест; заключение под стражу • Заключение под стражу ограничивает свободу человека.
+vähemusrahvus • Seadus kaitseb vähemusrahvuste õigusi.	национальное меньшинство • Закон защищает права национальных меньшинств.
+võrdsed • Kas kedagi tohib diskrimineerida soo, keele, usutunnistuse või veendumuste tõttu? → ei, kõik on seaduse ees võrdsed	равные • Можно ли кого-либо дискриминировать по полу, языку, вероисповеданию или убеждениям? → нет, все равны перед законом
+võõrandama • Millal võib vara võõrandada?	отчуждать • Когда можно отчуждать имущество?
+maks • Milliseid makse tuleb tasuda?	налог • Какие налоги нужно платить?
+keelama • Seadus keelab diskrimineerimise.	запрещать • Закон запрещает дискриминацию.
+avaldus • Ta esitas kirjaliku avalduse.	заявление • Он подал письменное заявление.
+kontroll • Kontroll peab olema sõltumatu.	контроль • Контроль должен быть независимым.
+lahkuda • Kellel on õigus lahkuda Eestist? → igaühel	покинуть • У кого есть право покинуть Эстонию? → у каждого
+loetlema • Põhiseadus loetleb põhiõigused.	перечислять • Конституция перечисляет основные права.
+nõustuma • Ma nõustun selle otsusega.	соглашаться • Я согласен с этим решением.
+seadusandlik • Kellele kuulub seadusandlik võim? → Riigikogule	законодательный • Кому принадлежит законодательная власть? → Рийгикогу
+trahv • Ta peab maksma trahvi.	штраф • Он должен заплатить штраф.
+vaja • Alaealisele 15–18-aastasele kodakondsuse andmiseks on vaja: → vanema või eestkostja nõusolekut	нужно • Для предоставления гражданства несовершеннолетнему 15–18 лет нужно: → согласие родителя или опекуна
+abikaasa • Tema abikaasa on Eesti kodanik.	супруг; супруга • Его супруга является гражданкой Эстонии.
+asjaajamiskeel • Milline keel on riigiasutuste asjaajamiskeel? → eesti keel	язык делопроизводства • Какой язык является языком делопроизводства в госучреждениях? → эстонский
+demokraatlik • Mida sätestab põhiseaduse esimene paragrahv Eesti riigivormi kohta? → Eesti on iseseisev ja sõltumatu demokraatlik vabariik	демократический • Что устанавливает первый параграф Конституции о форме Эстонского государства? → Эстония — независимое и самостоятельное демократическое государство
+diskrimineerimine • Diskrimineerimine on keelatud.	дискриминация • Дискриминация запрещена.
+elukutse • Kas järgmine väide on õige või vale? Kui seadus ei sätesta teisiti, on tegevusala, elukutse ja töökoha vaba valiku õigus ka Eestis viibival välisriigi kodanikul ja kodakondsuseta isikul. → õige	профессия • Верно или неверно: если закон не предусматривает иное, право свободно выбирать род занятий, профессию и место работы есть и у находящегося в Эстонии иностранца и апатрида. → верно
+igaühel • Kellel on õigus haridusele? → igaühel	у каждого • У кого есть право на образование? → у каждого
+kasvatama • Vanemad kasvatavad lapsi.	воспитывать • Родители воспитывают детей.
+kohtuvõim • Kohtuvõim on sõltumatu.	судебная власть • Судебная власть независима.
+koosolek • Koosolek algab kell kümme.	собрание • Собрание начинается в десять часов.
+Kõigi ja igaühe õigused • Kas põhiseaduses loetletud kõigi ja igaühe õigused kehtivad Eestis viibides ka välisriigi kodanikule ja kodakondsuseta isikule? → jah, need kehtivad võrdselt ka neile	права всех и каждого • Действуют ли перечисленные в Конституции права «всех и каждого» при пребывании в Эстонии также для иностранца и лица без гражданства? → да, они в равной мере действуют и для них
+looduskeskkond • Igaüks peab säästma looduskeskkonda.	природная среда • Каждый должен беречь природную среду.
+märgukiri • Ta saatis ametiasutusele märgukirja.	обращение; докладная записка • Он направил обращение в учреждение.
+rahvuskuuluvus • Kellel on õigus säilitada oma rahvuskuuluvus? → igaühel	национальная принадлежность • Кто имеет право сохранить национальную принадлежность? → каждый
+säilitama • Me säilitame oma keelt ja kultuuri.	сохранять • Мы сохраняем свой язык и культуру.
+sõnavabadus • Milline loetelu sisaldab üksnes põhiseaduses sätestatud igaühe õigusi? → õigus elule, omandipuutumatus, sõnavabadus	свобода слова • Какой перечень содержит только права каждого, установленные конституцией? → право на жизнь, неприкосновенность собственности, свобода слова
+tegevusala • Kellel on üldjuhul õigus vabalt valida tegevusala, elukutset ja töökohta? → Eesti kodanikul	род занятий • У кого в основном право свободно выбирать род занятий, профессию и место работы? → у гражданина Эстонии
+tervis • Igaühel on õigus tervise kaitsele.	здоровье • Каждый имеет право на охрану здоровья.
+toitjakaotus • Perekond vajab toitjakaotuse korral abi.	потеря кормильца • Семья нуждается в помощи в случае потери кормильца.
+töökoht • Tal on uus töökoht.	место работы • У него новое место работы.
+töötingimused • Kas töötingimused on riigi kontrolli all? → jah	условия труда • Находятся ли условия труда под контролем государства? → да
+töövõimetus • Ta vajab töövõimetuse tõttu abi.	нетрудоспособность • Он нуждается в помощи из-за нетрудоспособности.
+usutunnistus • Igaühel on õigus valida oma usutunnistus.	вероисповедание • Каждый имеет право выбирать своё вероисповедание.
+vabandama • Veendumustega ei saa vabandada õiguserikkumist.	оправдывать; извинять • Убеждениями нельзя оправдывать правонарушение.
+vanadus • Inimene võib vajada vanaduses abi.	старость • Человек может нуждаться в помощи в старости.
+viibima • Ta viibib Eestis seaduslikult.	находиться; пребывать • Он находится в Эстонии на законных основаниях.
+välisriigi kodanik • Ta on välisriigi kodanik.	гражданин иностранного государства • Он является гражданином иностранного государства.
+väljaandmine • Kohus arutab isiku väljaandmist.	выдача; экстрадиция • Суд рассматривает выдачу лица.
+võrdselt • Kas põhiseaduses loetletud kõigi ja igaühe õigused kehtivad Eestis viibides ka välisriigi kodanikule ja kodakondsuseta isikule? → jah, need kehtivad võrdselt ka neile	в равной степени • Действуют ли перечисленные в Конституции права «всех и каждого» при пребывании в Эстонии также для иностранца и лица без гражданства? → да, они в равной мере действуют и для них
+võrdõiguslikud • Kas järgmine väide on õige või vale? Abikaasad on võrdõiguslikud. → õige	равноправные • Верно или неверно: Супруги равноправны. → верно
+ühing • Nad asutasid ühingu.	объединение; общество • Они учредили объединение.
+ühiskond • Me elame demokraatlikus ühiskonnas.	общество • Мы живём в демократическом обществе.
+arvestama • Mida peab igaüks tegema oma õiguste ja vabaduste kasutamisel? → austama ja arvestama teiste inimeste õigusi ning järgima seadust	учитывать • Что должен делать каждый при осуществлении своих прав и свобод? → уважать и учитывать права других людей и соблюдать закон
+keelatud • Kas rahvusliku, rassilise, usulise või poliitilise vihkamise õhutamine on lubatud? → ei, see on seadusega keelatud ja karistatav	запрещено • Допускается ли разжигание национальной, расовой, религиозной или политической ненависти? → нет, это запрещено законом и наказуемо
+kinnine • Kas istung on kinnine?	закрытый • Заседание закрытое?
+pealinn • Mis on Eesti pealinn?	столица • Какой город является столицей Эстонии?
+piir • Ta ületas riigipiiri.	граница • Он пересёк государственную границу.
+registreerimine • Elukoha registreerimine on oluline.	регистрация • Регистрация места жительства важна.
+saatkond • Ta pöördus Eesti saatkonna poole.	посольство • Он обратился в посольство Эстонии.
+süüdimõistev kohtuotsus • Kedagi ei tohi käsitada kuriteos süüdi olevana enne, kui: → tema kohta on jõustunud süüdimõistev kohtuotsus	обвинительный приговор суда • Никого нельзя считать виновным в преступлении прежде, чем: → вступил в силу обвинительный приговор суда
+vastutus • Kes kannab vastutust?	ответственность • Кто несёт ответственность?
+alaline • Milline elamisõiguslik eeldus peab naturalisatsiooni taotlejal olema? → pikaajalise elaniku elamisluba või alaline elamisõigus	постоянный • Какое условие по статусу проживания нужно заявителю на натурализацию? → ВНЖ долгосрочного жителя или постоянное право проживания
+ametnik • Ametnik vastab avaldusele.	чиновник; должностное лицо • Чиновник отвечает на заявление.
+asjaolude tõttu • Kas järgmine väide on õige või vale? Kõik on seaduse ees võrdsed. Kedagi ei tohi diskrimineerida rahvuse, rassi, nahavärvi, soo, keele, päritolu, usutunnistuse, poliitiliste või muude veendumuste, varalise või sotsiaalse seisundi ega muude asjaolude tõttu. → õige	по обстоятельствам • Верно или неверно: Все равны перед законом. Никого нельзя дискриминировать по национальности, расе, цвету кожи, полу, языку, происхождению, вероисповеданию, политическим или иным убеждениям, имущественному или социальному положению либо иным обстоятельствам. → верно
+austama • Mida peab igaüks tegema oma õiguste ja vabaduste kasutamisel? → austama ja arvestama teiste inimeste õigusi ning järgima seadust	уважать • Что должен делать каждый при осуществлении своих прав и свобод? → уважать и учитывать права других людей и соблюдать закон
+avatud • Koosolek on kõigile avatud.	открытый • Собрание открыто для всех.
+eestlane • Ta on eestlane.	эстонец; эстонка • Он эстонец.
+eraelu • Kellel on õigus perekonna- ja eraelu puutumatusele? → igaühel	частная жизнь • Кто имеет право на неприкосновенность семейной и частной жизни? → каждый
+eraelu puutumatus • Igaühel on õigus eraelu puutumatusele.	неприкосновенность частной жизни • Каждый имеет право на неприкосновенность частной жизни.
+hariduse andmine • Kas järgmine väide on õige või vale? Hariduse andmine on riigi järelevalve all. → õige	предоставление образования • Верно или неверно: Предоставление образования находится под надзором государства. → верно
+igaüks • Kes tohib heisata ja kasutada Eesti lippu, kui järgitakse lipuseadust ja head tava? → igaüks	каждый • Кто может поднимать и использовать флаг Эстонии при соблюдении закона о флаге и добрых обычаев? → каждый
+iseseisvus • Eesti kaitseb oma iseseisvust.	независимость • Эстония защищает свою независимость.
+jõustuma • Seadus jõustub homme.	вступать в силу • Закон вступает в силу завтра.
+keskkond • Me peame kaitsma keskkonda.	среда; окружающая среда • Мы должны защищать окружающую среду.
+kodakondsuseta isik • Ta on kodakondsuseta isik.	лицо без гражданства • Он является лицом без гражданства.
+Kodu puutumatus • Milline põhiõigus kaitseb eluruumi sekkumise eest? → kodu puutumatus	неприкосновенность жилища • Какое основное право защищает жилище от вмешательства? → неприкосновенность жилища
+koonduma • Inimesed võivad koonduda ühingutesse.	объединяться • Люди могут объединяться в общества.
+kuulumine • Kas lause on õige või vale? "Kuulumine kirikutesse on vaba, riigikirikut Eestis ei ole." → õige	принадлежность; членство • Верно или неверно: «Принадлежность к церквям свободна, государственной церкви в Эстонии нет.» → верно
+lahendama • Kohus lahendab vaidluse.	решать; разрешать • Суд разрешает спор.
+lõpetama • Ta lõpetas kooli.	заканчивать; прекращать • Он окончил школу.
+mõttevabadus • Südametunnistuse-, usu- ja mõttevabadus on: → igaühel	свобода мысли • Свобода совести, религии и мысли принадлежит: → каждому
+otsustav sõna • Kas lause on õige või vale? Laste hariduse valikul on otsustav sõna vanematel. → õige	решающее слово • Верно или неверно: «При выборе образования детей решающее слово принадлежит родителям.» → верно
+perekond • Kas järgmine väide on õige või vale? Perekond on kohustatud hoolitsema oma abivajavate liikmete eest. → õige	семья • Верно или неверно: Семья обязана заботиться о своих нуждающихся членах. → верно
+piinamine • Piinamine on keelatud.	пытки; истязание • Пытки запрещены.
+päritolu • Kas järgmine väide on õige või vale? Kõik on seaduse ees võrdsed. Kedagi ei tohi diskrimineerida rahvuse, rassi, nahavärvi, soo, keele, päritolu, usutunnistuse, poliitiliste või muude veendumuste, varalise või sotsiaalse seisundi ega muude asjaolude tõttu. → õige	происхождение • Верно или неверно: Все равны перед законом. Никого нельзя дискриминировать по национальности, расе, цвету кожи, полу, языку, происхождению, вероисповеданию, политическим или иным убеждениям, имущественному или социальному положению либо иным обстоятельствам. → верно
+põhiseaduslik kord • Riik kaitseb põhiseaduslikku korda.	конституционный строй • Государство защищает конституционный строй.
+püsielanik • Ta on Eesti püsielanik.	постоянный житель • Он постоянный житель Эстонии.
+rahvapension • Millised riikliku pensioni liigid on riikliku pensionikindlustuse seaduses praegu peamiselt sätestatud? → vanaduspension ja rahvapension	народная пенсия • Какие виды государственной пенсии сейчас в основном предусмотрены законом о государственном пенсионном страховании? → пенсия по старости и народная пенсия
+rahvus • Igaühel on õigus säilitada oma rahvus.	национальность; нация • Каждый имеет право сохранять свою национальную принадлежность.
+seaduse kaitsele • Kellel on õigus riigi ja seaduse kaitsele? → igaühel	на защиту закона • Кто имеет право на защиту государства и закона? → каждый
+säästma • Kas järgmine väide on õige või vale? Igaüks on kohustatud säästma elu- ja looduskeskkonda ning hüvitama kahju, mis ta on keskkonnale tekitanud. → õige	бережно относиться • Верно или неверно: каждый обязан беречь среду и возмещать причинённый ущерб. → верно
+südametunnistus • Igaühel on südametunnistuse vabadus.	совесть • Каждый имеет свободу совести.
+süüdi mõista • Kedagi ei tohi süüdi mõista ilma kohtuta.	признать виновным; осудить • Никого нельзя признать виновным без суда.
+süütuse presumptsioon • Süütuse presumptsioon kaitseb inimest.	презумпция невиновности • Презумпция невиновности защищает человека.
+süütust tõendama • Kas järgmine väide on õige või vale? Keegi ei ole kriminaalmenetluses kohustatud oma süütust tõendama. → õige	доказывать невиновность • Верно или неверно: никто в уголовном процессе не обязан доказывать свою невиновность. → верно
+toimepanemine • Kuriteo toimepanemine toob kaasa vastutuse.	совершение • Совершение преступления влечёт за собой ответственность.
+tööandja • Tööandja vastutab töötingimuste eest.	работодатель • Работодатель отвечает за условия труда.
+usuvabadus • Usuvabadus on põhiõigus.	свобода вероисповедания • Свобода вероисповедания является основным правом.
+usuühing • Ta kuulub usuühingusse.	религиозное объединение • Он состоит в религиозном объединении.
+vabatahtlik • Osalemine on vabatahtlik.	добровольный • Участие добровольное.
+vanaduspension • Millised riikliku pensioni liigid on riikliku pensionikindlustuse seaduses praegu peamiselt sätestatud? → vanaduspension ja rahvapension	пенсия по старости • Какие виды государственной пенсии сейчас в основном предусмотрены законом о государственном пенсионном страховании? → пенсия по старости и народная пенсия
+viivitamatult • Kas järgmine väide on õige või vale? Kuriteos kahtlustatavale antakse viivitamatult võimalus valida endale kaitsja ja kohtuda temaga. → õige	незамедлительно • Верно или неверно: Подозреваемому в преступлении незамедлительно дают возможность выбрать защитника и встретиться с ним. → верно
+võõrandamatu õigus • Kas järgmine väide on õige või vale? Autoril on võõrandamatu õigus oma loomingule ning riik kaitseb autori õigusi. → õige	неотчуждаемое право • Верно или неверно: У автора неотчуждаемое право на своё творчество, и государство защищает права автора. → верно
+õhutama • Vaenu õhutamine on keelatud.	разжигать; подстрекать • Разжигание вражды запрещено.
+õigus elule • Milline loetelu sisaldab üksnes põhiseaduses sätestatud igaühe õigusi? → õigus elule, omandipuutumatus, sõnavabadus	право на жизнь • Какой перечень содержит только права каждого, установленные конституцией? → право на жизнь, неприкосновенность собственности, свобода слова
+õigus haridusele • Kellel on õigus haridusele? → igaühel	право на образование • У кого есть право на образование? → у каждого
+õigused ja vabadused • Mis võib põhiseaduse järgi piirata inimese vaba eneseteostust? → teiste inimeste õigused ja vabadused ning seaduse järgimine	права и свободы • Что по Конституции может ограничивать свободную самореализацию человека? → права и свободы других людей и соблюдение закона
+õiguslik • Ta vajab õiguslikku abi.	правовой • Ему нужна правовая помощь.
+õigustama • See ei õigusta vägivalda.	оправдывать • Это не оправдывает насилие.
+õigusvastane • See tegu on õigusvastane.	противоправный • Это деяние противоправно.
+õpetama • Ta õpetab eesti keelt.	учить; преподавать • Он преподаёт эстонский язык.
+õppima • Ma õpin eesti keelt.	учиться; изучать • Я изучаю эстонский язык.
+õppimiskohustus • Seadus sätestab õppimiskohustuse.	обязанность учиться • Закон устанавливает обязанность учиться.
