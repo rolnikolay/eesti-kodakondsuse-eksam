@@ -2,7 +2,7 @@
 
 Drill trainer for the Estonian citizenship exam (Constitution + Citizenship Act).
 
-**Live demo:** https://upyrj.github.io/eesti-kodakondsuse-eksam/
+**Live:** https://rolnikolay.github.io/eesti-kodakondsuse-eksam/ · [Mock exam (24 questions)](https://rolnikolay.github.io/eesti-kodakondsuse-eksam/exam.html)
 
 > **Disclaimer (EN / ET / RU below):** Study bank, not kept in sync with official exam changes. Fork and change freely. Not Harno / not the state. For the real exam use [PS](https://www.riigiteataja.ee/akt/PS), [KodS](https://www.riigiteataja.ee/akt/126062025008), and official materials.
 
@@ -14,9 +14,10 @@ Drill trainer for the Estonian citizenship exam (Constitution + Citizenship Act)
 A static practice site for the **Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksam**. Question in Estonian; Russian debrief after you answer. Progress stays in the browser (`localStorage`). No server.
 
 ### Links
-- **Live:** https://upyrj.github.io/eesti-kodakondsuse-eksam/  
+- **Live:** https://rolnikolay.github.io/eesti-kodakondsuse-eksam/  
+  **Mock exam (24 questions):** https://rolnikolay.github.io/eesti-kodakondsuse-eksam/exam.html  
   On a phone: “Add to Home Screen” / “Install” (PWA).
-- **Repository:** https://github.com/upyrj/eesti-kodakondsuse-eksam
+- **Repository:** https://github.com/rolnikolay/eesti-kodakondsuse-eksam
 
 ### Run locally
 No build step:
@@ -44,8 +45,8 @@ Fork freely. Wording, distractors, accessibility — welcome. Please keep the di
 Built from practice items and a consultation presentation for exam prep. Three people who trained with this material scored **23–24 / 24** on the official exam on **26 September 2026**.
 
 ### Credits / sources
-- [Denis Ivanov](https://ivanov.in) — site and bank
-- [Grok Bot Tõnu](https://x.ai/bot) — Cursor/Grok Bot that built the drill with [Denis](https://ivanov.in)
+- Original site & question bank: [Denis Ivanov](https://ivanov.in) (forked from [upyrj/eesti-kodakondsuse-eksam](https://github.com/upyrj/eesti-kodakondsuse-eksam))
+- [Grok Bot Tõnu](https://x.ai/bot) — Cursor/Grok Bot that built the original drill with [Denis](https://ivanov.in)
 - Law: [PS](https://www.riigiteataja.ee/akt/PS), [KodS](https://www.riigiteataja.ee/akt/126062025008); exam context: [Harno](https://www.harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/kodakondsuseksamid) and [Integratsiooni Sihtasutus](https://integratsioon.ee/kodakondsuseksam) (not affiliated)
 
 ### Disclaimer
@@ -62,9 +63,10 @@ MIT — see [`LICENSE`](LICENSE).
 Staatiline treeningleht **Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse tundmise eksami** (kodakondsuseksam) jaoks. Küsimus eesti keeles; pärast vastust vene keeles selgitus. Progress jääb brauserisse (`localStorage`). Serverit pole.
 
 ### Lingid
-- **Live:** https://upyrj.github.io/eesti-kodakondsuse-eksam/  
+- **Live:** https://rolnikolay.github.io/eesti-kodakondsuse-eksam/  
+  **Proovieksam (24 küsimust):** https://rolnikolay.github.io/eesti-kodakondsuse-eksam/exam.html  
   Telefonis: “Lisa avakuvale” / “Installi” (PWA).
-- **Repositoorium:** https://github.com/upyrj/eesti-kodakondsuse-eksam
+- **Repositoorium:** https://github.com/rolnikolay/eesti-kodakondsuse-eksam
 
 ### Kohalik käivitamine
 Ehitust pole vaja:
@@ -92,8 +94,8 @@ Forki vabalt. Sõnastus, distraktorid, ligipääsetavus — oodatud. Jäta discl
 Tehtud treeningülesannete ja konsultatsiooni esitluse põhjal. Kolm inimest, kes selle materjaliga treenisid, said ametlikul eksamil **26. septembril 2026** **23–24 / 24**.
 
 ### Tunnustus / allikad
-- [Denis Ivanov](https://ivanov.in) — sait ja pank
-- [Grok Bot Tõnu](https://x.ai/bot) — Cursor/Grok Bot, kellega [Denis](https://ivanov.in) driilli kokku pani
+- Algne sait ja küsimustepank: [Denis Ivanov](https://ivanov.in) (fork repositooriumist [upyrj/eesti-kodakondsuse-eksam](https://github.com/upyrj/eesti-kodakondsuse-eksam))
+- [Grok Bot Tõnu](https://x.ai/bot) — Cursor/Grok Bot, kellega [Denis](https://ivanov.in) algse driilli kokku pani
 - Seadused: [PS](https://www.riigiteataja.ee/akt/PS), [KodS](https://www.riigiteataja.ee/akt/126062025008); eksami kontekst: [Harno](https://www.harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/kodakondsuseksamid) ja [Integratsiooni Sihtasutus](https://integratsioon.ee/kodakondsuseksam) (seotud ei ole)
 
 ### Hoiatus
@@ -110,9 +112,10 @@ MIT — fail [`LICENSE`](LICENSE).
 Тренажёр к экзамену на знание **Конституции ЭР и Закона о гражданстве** (kodakondsuse eksam). Вопрос по-эстонски, после ответа — разбор по-русски. Прогресс в браузере (`localStorage`), без сервера.
 
 ### Ссылки
-- **Сайт:** https://upyrj.github.io/eesti-kodakondsuse-eksam/  
+- **Сайт:** https://rolnikolay.github.io/eesti-kodakondsuse-eksam/  
+  **Пробный экзамен (24 вопроса):** https://rolnikolay.github.io/eesti-kodakondsuse-eksam/exam.html  
   На телефоне: «Добавить на экран» / Install — это PWA.
-- **Репозиторий:** https://github.com/upyrj/eesti-kodakondsuse-eksam
+- **Репозиторий:** https://github.com/rolnikolay/eesti-kodakondsuse-eksam
 
 ### Как открыть у себя
 Сборка не нужна:
@@ -139,9 +142,9 @@ python3 -m http.server 8080
 ### Откуда это
 Собрано из тренировочных заданий и консультационной презентации к экзамену. Трое, кто готовился по этому материалу, **26 сентября 2026** сдали официальный экзамен на **23–24 из 24**.
 
-### Кто и откуда
-- [Denis Ivanov](https://ivanov.in) — сайт и банк
-- [Grok Bot Tõnu](https://x.ai/bot) — ассистент, с которым вместе собирали тренажёр ([Denis](https://ivanov.in))
+### Благодарности / источники
+- Оригинальный сайт и банк вопросов: [Denis Ivanov](https://ivanov.in) (форк [upyrj/eesti-kodakondsuse-eksam](https://github.com/upyrj/eesti-kodakondsuse-eksam))
+- [Grok Bot Tõnu](https://x.ai/bot) — ассистент, с которым [Denis](https://ivanov.in) собрал исходный тренажёр
 - Законы: [PS](https://www.riigiteataja.ee/akt/PS), [KodS](https://www.riigiteataja.ee/akt/126062025008); контекст экзамена: [Harno](https://www.harno.ee/eksamid-testid-ja-uuringud/eksamid-testid-ja-lopudokumendid/kodakondsuseksamid) и [Integratsiooni Sihtasutus](https://integratsioon.ee/kodakondsuseksam) (мы с ними не связаны)
 
 ### Дисклеймер
