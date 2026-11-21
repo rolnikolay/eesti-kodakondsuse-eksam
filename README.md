@@ -2,7 +2,7 @@
 
 Drill trainer for the Estonian citizenship exam (Constitution + Citizenship Act).
 
-**Live demo:** https://upyrj.github.io/eesti-kodakondsuse-eksam/
+**Live demo:** https://upyrj.github.io/eesti-kodakondsuse-eksam/ · [Mock exam (24 questions)](https://upyrj.github.io/eesti-kodakondsuse-eksam/exam.html)
 
 > **Disclaimer (EN / ET / RU below):** Study bank, not kept in sync with official exam changes. Fork and change freely. Not Harno / not the state. For the real exam use [PS](https://www.riigiteataja.ee/akt/PS), [KodS](https://www.riigiteataja.ee/akt/126062025008), and official materials.
 
@@ -15,6 +15,7 @@ A static practice site for the **Eesti Vabariigi põhiseaduse ja kodakondsuse se
 
 ### Links
 - **Live:** https://upyrj.github.io/eesti-kodakondsuse-eksam/  
+  **Mock exam (24 questions):** https://upyrj.github.io/eesti-kodakondsuse-eksam/exam.html  
   On a phone: “Add to Home Screen” / “Install” (PWA).
 - **Repository:** https://github.com/upyrj/eesti-kodakondsuse-eksam
 
@@ -63,6 +64,7 @@ Staatiline treeningleht **Eesti Vabariigi põhiseaduse ja kodakondsuse seaduse t
 
 ### Lingid
 - **Live:** https://upyrj.github.io/eesti-kodakondsuse-eksam/  
+  **Proovieksam (24 küsimust):** https://upyrj.github.io/eesti-kodakondsuse-eksam/exam.html  
   Telefonis: “Lisa avakuvale” / “Installi” (PWA).
 - **Repositoorium:** https://github.com/upyrj/eesti-kodakondsuse-eksam
 
@@ -111,6 +113,7 @@ MIT — fail [`LICENSE`](LICENSE).
 
 ### Ссылки
 - **Сайт:** https://upyrj.github.io/eesti-kodakondsuse-eksam/  
+  **Пробный экзамен (24 вопроса):** https://upyrj.github.io/eesti-kodakondsuse-eksam/exam.html  
   На телефоне: «Добавить на экран» / Install — это PWA.
 - **Репозиторий:** https://github.com/upyrj/eesti-kodakondsuse-eksam
 
